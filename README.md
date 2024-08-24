@@ -77,15 +77,3 @@ Each case is also repeated without shuffling the data.
 
 - **Task:** Solve the XOR classification problem using a neural network designed from scratch, without using any high-level APIs.
 - **Implementation:** Include the design of layers, activation functions, loss function, etc., in the code.
-
-## **Submission Guidelines**
-
-- **File Format:** Submit only the `.ipynb` file.
-- **Platform:** Ensure the notebook runs on Google Colab before submission.
-- **Demonstration:** Be present in the lab for an in-person demonstration.
-- **Late Submission:** 10% penalty per day, up to 3 days. After 72 hours, a score of 0 will be assigned.
-- **Execution:** Code that does not run or contains syntax errors will receive a score of 0.
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
