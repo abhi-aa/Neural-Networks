@@ -4,10 +4,7 @@ This repository contains the implementation and analysis of various neural netwo
 
 ## **Lab Objectives**
 
-- **Function Approximation:** Implement different configurations of neural networks to approximate the function:
-  \[
-  y = 0.2x^4 + 2x^3 + 0.1x^2 + 10
-  \]
+- **Function Approximation:** Implement different configurations of neural networks to approximate the function: $y = 0.2x^4 + 2x^3 + 0.1x^2 + 10$.
   where \( x \) is a real number between \(-1\) and \(1\) inclusive.
 
 - **XOR Problem:** Implement a neural network from scratch to solve the XOR classification problem.
